@@ -44,11 +44,10 @@ position: relative;   /*como vamos posicionar os elementos*/
 
 height: 520px;
 position: absolute;
-left: 523px;
-top: 70px;
+left: 710px;
+top: 157px;
 transition: opacity 2s;
 }
-
 
 
 .caixa-form {
